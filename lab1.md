@@ -1,6 +1,6 @@
-**#Lab Report 1**
+# Lab Report 1
 
-**##Kathy Gu**
+## Kathy Gu
 
 For taking the course of CSE15L, it is essential for you to know how to log into your course-specific account(ieng6).
 **A.** The first step is setting up your CSE15L account. It has been already created to your school account as a additional account. By log into [Link]https://sdacs.ucsd.edu/~icc/index.php using your school account, you can check your specific ETS account associated with your student ID. To reset your password, follow the exact steps in the tutorial [Link]https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit.
